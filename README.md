@@ -102,9 +102,9 @@ package org.library;
 
 public class Book {
     // private final Fields: title, author  and price
-    // TODO
+    
     // Constructor 
-    // TODO
+    
 
     // Getters ONLY
    
